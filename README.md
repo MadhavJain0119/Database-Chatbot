@@ -17,4 +17,20 @@ Features
 
 - Python 3.6+
 - Install the required packages by running the following command:
-  ``` pip install -r requirements.txt ``` 
+  ``` pip install -r requirements.txt ```
+
+## Future Enhancements
+
+We are committed to continuous improvement, and future enhancements for the chatbot may include:
+
+- **Multilingual Support:** Extending NLP capabilities to support multiple languages for a more diverse user base.
+
+- **Integration with AI Assistants:** Integrating the chatbot with popular AI assistants such as Alexa, Google Assistant, or Siri.
+
+- **Advanced Query Optimization:** Implementing query optimization techniques to improve response times for complex queries.
+
+- **Visualizations:** Incorporating data visualization capabilities to present query results in a more understandable format.
+
+## Conclusion
+
+The Chatbot with SQL Database Integration empowers users to interact with SQL databases effortlessly. Its ability to connect to various databases, understand standard SQL queries, and provide real-time insights makes it an indispensable tool for businesses seeking to leverage the power of their data.
